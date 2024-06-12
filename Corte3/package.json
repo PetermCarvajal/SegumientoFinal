@@ -1,0 +1,8 @@
+{
+  "name": "Corte3",
+  "version": "1.0.0",
+  "main": "Ejercicio1.js",
+  "license": "MIT",
+  "scripts": {"start": ":ts-node src/Ejercicio4.ts"}
+
+}
